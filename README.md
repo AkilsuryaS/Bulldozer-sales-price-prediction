@@ -2,6 +2,8 @@
 
 # Predicting the Sale Price of Bulldozers using Machine Learning
 
+![](https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction/blob/main/images/Cover%20pic.jpg)
+
 ## 1. Problem Definition
 > How well can we predict the future sale price of a bulldozer, given its
 characteristics and previous examples of how much similar bulldozers have been
